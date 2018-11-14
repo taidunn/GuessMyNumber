@@ -7,7 +7,7 @@ public class RandomNumberGen {
 		if (userInput.hasNextInt())
 		{
 			int randomNumberEnt = userInput.nextInt();
-			if (randomNumberEnt <= 100) {
+			if ((randomNumberEnt <= 100) && (randomNumberEnt > -1)) {
 				int generateRandom = (int)(Math.random()*101);
 				if (randomNumberEnt > generateRandom) {
 					System.out.println("You entered the number " + randomNumberEnt + " and the generated number was " + generateRandom + ".");
@@ -26,6 +26,16 @@ public class RandomNumberGen {
 					System.out.println("No one was higher");
 					System.out.println("No one won");
 					System.out.println("Thanks for playing the quick game.");
+				}
+			}
+			else {
+				if (randomNumberEnt > 100) {
+					System.out.println("You entered " + randomNumberEnt + ".");
+					System.out.println("That number is too high for this game");
+				}
+				else {
+					System.out.println("You entered " + randomNumberEnt + ".");
+					System.out.println("That number is too low for this game");
 				}
 			}
 		}
