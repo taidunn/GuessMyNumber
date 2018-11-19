@@ -15,10 +15,10 @@ public class RandomNumberGen {
 				*/
 				if (max1115 >= 100) {
 				//Any number greater than or equal to 100 will default to 100.
-					int generateRandom = 100;
+					generateRandom = 100;
 				}
 				else {
-					int generateRandom = max1115;
+					generateRandom = max1115;
 				}
 				if (randomNumberEnt > generateRandom) {
 					System.out.println("You entered the number " + randomNumberEnt + " and the generated number was " + generateRandom + ".");
