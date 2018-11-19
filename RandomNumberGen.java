@@ -3,6 +3,7 @@ public class RandomNumberGen {
 	static Scanner userInput = new Scanner(System.in);
 
 	public static void main(String[] args) {
+		int generateRandom = 0;
 		System.out.print("Enter a number between 1 and 100: ");
 		if (userInput.hasNextInt())
 		{
