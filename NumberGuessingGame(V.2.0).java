@@ -23,6 +23,9 @@ public class RandomNumberGen {
 				}
 				//System.out.println(generateRandom);
 				while (randomNumberEnt < generateRandom)
+				/*This will cause the userInput to loop until your number is higher
+				*than the randomly generated number.
+				*/
 				{
 					System.out.println("Attempt number: " + h);
 					h++;
