@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class NumberGuessingGame(V.2.0) {
+public class RandomNumberGen {
 
 	static Scanner userInput = new Scanner(System.in);
 	public static void main(String[] args) {
@@ -22,6 +22,8 @@ public class NumberGuessingGame(V.2.0) {
 					generateRandom = max115;
 				}
 				//System.out.println(generateRandom);
+				/*Take out the comment from the code above if you want to see what the
+				*generated number was */
 				while (randomNumberEnt < generateRandom)
 				/*This will cause the userInput to loop until your number is higher
 				*than the randomly generated number.
