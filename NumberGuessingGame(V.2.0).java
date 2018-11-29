@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class RandomNumberGen {
+public class NumberGuessingGame(V.2.0) {
 
 	static Scanner userInput = new Scanner(System.in);
 	public static void main(String[] args) {
