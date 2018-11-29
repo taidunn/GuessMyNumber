@@ -11,3 +11,6 @@ It will tell you who had the highest number, and if you have won.
 # Version 2.0
 This is a bit more advanced.
 Now, this version introduces a "while" loop. This loop will continuosly ask you for a new number until your number is higher than the generated number.
+
+# Version 2.1
+Coming Soon..
