@@ -13,4 +13,7 @@ This is a bit more advanced.
 Now, this version introduces a "while" loop. This loop will continuosly ask you for a new number until your number is higher than the generated number.
 
 # Version 2.1
-Coming Soon..
+This version uses no "while" loop. 
+However, it will continuously ask you for a new number until your number is higher or you have passed your 10th attempt.
+You are limited to 10 attempts.
+Uses more than one method, and incorperates them together to work correctly.
