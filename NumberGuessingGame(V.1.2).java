@@ -1,3 +1,7 @@
+//Outdated on: December 01, 2018 (Local Hack Day)
+//Still fully operational//
+/*COMPLETE*/
+//Please check out Version 1.2 (https://github.com/taidunn/Random-Number-Game/blob/master/NumberGuessingGame(V.2.0).java)**//
 import java.util.Scanner;
 public class RandomNumberGen {
 	/*These public class names will need to be changed to whatever you decide

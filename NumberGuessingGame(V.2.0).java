@@ -1,5 +1,6 @@
 //NEWEST VERSION
 /*COMPLETE*/
+//Version 2.4 Release Date Unknown\\
 import java.util.Scanner;
 
 public class RandomNumberGen {
