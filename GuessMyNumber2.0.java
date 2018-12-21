@@ -3,7 +3,7 @@
 //Version 2.4 Release Date Unknown\\
 import java.util.Scanner;
 
-public class RandomNumberGen {
+public class GuessMyNumber {
 
 	private static int randomNumberEnt;
 	private static int generatedNumber = (int)(Math.random()*100);
