@@ -3,7 +3,7 @@
 /*COMPLETE*/
 //Please check out Version 1.2 (https://github.com/taidunn/Random-Number-Game/blob/master/NumberGuessingGame(V.2.0).java)**//
 import java.util.Scanner;
-public class RandomNumberGen {
+public class GuessMyNumber {
 	/*These public class names will need to be changed to whatever you decide
 	*to change the file name to. At this moment the download will not run this
 	*because the public class name does not match the file name. The file name was
