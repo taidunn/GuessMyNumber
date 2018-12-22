@@ -2,7 +2,7 @@
 /*Incomplete*/
 import java.util.*;
 
-public class RandomNumberGen {
+public class GuessMyNumber {
 
 	private static int randomNumberEnt;
 	private static int magic = 0;
